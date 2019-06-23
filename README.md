@@ -32,4 +32,5 @@
 1. Implemented `Delegation Pattern` and blocks to achieve communication between classes
 1. Multiple language support: English, French and Chinese
 1. Search History would be saved automatically and show on the map when selected
+1. Display user current facing direction
 1. Analyze user behaviour with `Google Analytics`, e.g. touch/share event
