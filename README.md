@@ -30,3 +30,4 @@
 1. Customized `UICollectionView` with `UIViewPropertyAnimator` and customized `Flow Layout` to achieve a blur effect animation
 1. Multiple language support: English, French and Chinese
 1. Search History would be saved automatically and show on the map when selected
+1. Analyze user behaviour with `Google Analytics`, e.g. touch/share event
