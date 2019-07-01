@@ -14,6 +14,9 @@
 ![french_support](https://i.loli.net/2019/05/01/5cc916e2e317d.gif)
 ![search_history](https://i.loli.net/2019/05/12/5cd7582a376a9.gif)
 
+# Design
+![design](https://github.com/weitieda/find-my-parking-demo/blob/master/images/design.png)
+
 ## Download
 
 <a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
