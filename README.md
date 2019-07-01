@@ -37,3 +37,4 @@
 1. Search History would be saved automatically and show on the map when selected
 1. Display user current facing direction
 1. Analyze user behaviour with `Google Analytics`, e.g. touch/share event
+1. Customized `MKAnnotationView`
