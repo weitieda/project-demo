@@ -7,8 +7,7 @@
 
 **Find My Parking** helps user to find parking pole location in Montreal, Canada.
 
-## Download
-
+Available for download at `App Store`
 <a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
 <img src='https://i.loli.net/2019/04/20/5cba21ac64d13.jpg' />
 </a>
