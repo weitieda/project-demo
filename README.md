@@ -7,6 +7,12 @@
 
 **Find My Parking** helps user to find parking pole location in Montreal, Canada.
 
+## Download
+
+<a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
+<img src='https://i.loli.net/2019/04/20/5cba21ac64d13.jpg' />
+</a>
+
 ## Preview
 ![menu](https://i.loli.net/2019/06/15/5d0426e734e2542915.gif)
 ![home_screen](https://i.loli.net/2019/05/01/5cc915425f77c.gif)
@@ -17,11 +23,6 @@
 # Design
 ![design](https://github.com/weitieda/find-my-parking-demo/blob/master/images/design.png)
 
-## Download
-
-<a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
-<img src='https://i.loli.net/2019/04/20/5cba21ac64d13.jpg' />
-</a>
 
 ## Features
 
