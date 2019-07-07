@@ -24,8 +24,7 @@ Available for download at `App Store`:
 ![design](https://github.com/weitieda/find-my-parking-demo/blob/master/images/design.png)
 
 <a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
-<img src='images/download.jpg' />
-</a>
+<img src='images/download.jpg' /></a>
 
 ## Features
 
