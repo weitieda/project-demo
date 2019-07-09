@@ -1,7 +1,7 @@
 # Light Menu
 ![Platform](https://img.shields.io/badge/Platform-iOS-green.svg)
 
-![preview](asset/light-menu/light_menu_preview.jpg)
+![preview](/asset/light-menu/light_menu_preview.jpg)
 
 **Light Menu** helps restaurant to place order faster
 
@@ -9,7 +9,7 @@
 
 
 ## Screenshots
-<img src="asset/light-menu//home.png" width="50%"><img src="asset/light-menu//search_customer.png" width="50%"><img src="asset/light-menu//transactions.png" width="50%"><img src="asset/light-menu//menu.png" width="50%"><img src="asset/light-menu//django_main_list.png" width="50%"><img src="asset/light-menu//django_sushi_list.png" width="50%"><img src="asset/light-menu//django_edit_sushi.png" width="50%"><img src="asset/light-menu//firebase_database.png" width="50%">
+<img src="../asset/light-menu/home.png" width="50%"><img src="../asset/light-menu/search_customer.png" width="50%"><img src="../asset/light-menu/transactions.png" width="50%"><img src="../asset/light-menu/menu.png" width="50%"><img src="../asset/light-menu/django_main_list.png" width="50%"><img src="../asset/light-menu/django_sushi_list.png" width="50%"><img src="../asset/light-menu/django_edit_sushi.png" width="50%"><img src="../asset/light-menu/firebase_database.png" width="50%">
 
 ## Features
 *Full-stack project, including `iPad` for mobile, `Django` for web and api, `Firebase` for backend and `PostgreSQL` for database.*

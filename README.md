@@ -1,4 +1,4 @@
 # Project Demo
 
-* [Light Menu](/find-my-parking-demo.md)
-* [Find My Parking](/light-menu-demo.md)
+* [Light Menu](projects/find-my-parking-demo.md)
+* [Find My Parking](projects/light-menu-demo.md)

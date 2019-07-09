@@ -8,18 +8,18 @@
 Available for download at `App Store`:
 
 <a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
-<img src='asset/find-my-parking/app-store-download.png' />
+<img src='../asset/find-my-parking/app-store-download.png' />
 </a>
 
 ## Preview
-![menu](asset/find-my-parking/menu.gif)
-![home_screen](asset/find-my-parking//french.gif)
-![share_screen](asset/find-my-parking//history.gif)
-![french_support](asset/find-my-parking//info.gif)
-![search_history](asset/find-my-parking//search.gif)
+![menu](../asset/find-my-parking/menu.gif)
+![home_screen](../asset/find-my-parking/french.gif)
+![share_screen](../asset/find-my-parking/history.gif)
+![french_support](../asset/find-my-parking/info.gif)
+![search_history](../asset/find-my-parking/search.gif)
 
 # Design
-![design](asset/find-my-parking//design.png)
+![design](../asset/find-my-parking/design.png)
 
 ## Features
 
