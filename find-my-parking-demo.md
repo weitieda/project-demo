@@ -3,25 +3,23 @@
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-iOS-green.svg)
 
-## Introduction
-
 **Find My Parking** helps user to find parking pole location in Montreal, Canada.
 
 Available for download at `App Store`:
 
 <a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
-<img src='images/download.jpg' />
+<img src='asset/find-my-parking/app-store-download.png' />
 </a>
 
 ## Preview
-![menu](images/menu.gif)
-![home_screen](images/french.gif)
-![share_screen](images/history.gif)
-![french_support](images/info.gif)
-![search_history](images/search.gif)
+![menu](asset/find-my-parking/menu.gif)
+![home_screen](asset/find-my-parking//french.gif)
+![share_screen](asset/find-my-parking//history.gif)
+![french_support](asset/find-my-parking//info.gif)
+![search_history](asset/find-my-parking//search.gif)
 
 # Design
-![design](images/design.png)
+![design](asset/find-my-parking//design.png)
 
 ## Features
 
