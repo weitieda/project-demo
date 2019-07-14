@@ -1,4 +1,5 @@
 # Find My Parking
+
 ![MIT Licence](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-iOS-green.svg)
@@ -12,6 +13,7 @@ Available for download at `App Store`:
 </a>
 
 ## Preview
+
 ![menu](../asset/find-my-parking/menu.gif)
 ![home_screen](../asset/find-my-parking/french.gif)
 ![share_screen](../asset/find-my-parking/history.gif)
@@ -19,6 +21,7 @@ Available for download at `App Store`:
 ![search_history](../asset/find-my-parking/search.gif)
 
 # Design
+
 ![design](../asset/find-my-parking/design.png)
 
 ## Features
@@ -26,13 +29,12 @@ Available for download at `App Store`:
 1. Created `Auto Layout` UI and animation programmatically (No Storyboard)
 2. Request for user location with `CoreLocation` and shows it on `MapView` with `MapKit`
 3. Search parking pole data (open-source and provided by [Stationnement de Montréal](https://www.statdemtl.qc.ca/fr/informations/donnees-ouvertes/description-des-donnees-disponibles.html)) from a `SQLite` database with [FMDB](https://github.com/ccgus/fmdb) library, and show result on MapView with `MapKit Annotations`
-4. Implemented `UIView` Constraint Animation along with `UISwipeGestureRecongizer`
-5. Intergrated a confetti animation with `CAEmitterLayer`
-6. Customized `UICollectionView` with `UIViewPropertyAnimator` and customized `Flow Layout` to achieve a blur effect animation
-7. `UITableView` with customized cell
-8. Implemented `Delegation Pattern` and blocks to achieve communication between classes
-9. Multiple language support: English, French and Chinese
-10. Search History would be saved automatically and show on the map when selected
+4. Read parking meters location from `.csv` file, fetched via `Core Data` then show user nearby ones
+5. Implemented `UIView` Constraint Animation along with `UISwipeGestureRecongizer`
+6. Intergrated a confetti animation with `CAEmitterLayer`
+7. Customized `UICollectionView` with `UIViewPropertyAnimator` and customized `Flow Layout` to achieve a blur effect animation
+8. `UITableView` with customized cell
+9. Implemented `Delegation Pattern` and blocks to achieve communication between classes
+10. Multiple language support: English, French and Chinese
 11. Display user current facing direction
 12. Analyze user behaviour with `Google Analytics`, e.g. touch/share event
-13. Customized `MKAnnotationView`
