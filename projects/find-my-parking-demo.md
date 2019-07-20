@@ -38,4 +38,3 @@ Available for download at `App Store`:
 9. Implemented `Delegation Pattern` and blocks to achieve communication between classes
 10. Multiple language support: English, French and Chinese
 11. Display user current facing direction
-12. Analyze user behaviour with `Google Analytics`, e.g. touch/share event
