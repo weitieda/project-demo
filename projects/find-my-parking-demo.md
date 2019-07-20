@@ -21,7 +21,7 @@ Available for download at `App Store`:
 ![search_history](../asset/find-my-parking/search.gif)
 ![search_history](../asset/find-my-parking/cluster.gif)
 
-# Design
+## Design
 
 ![design](../asset/find-my-parking/design.png)
 
