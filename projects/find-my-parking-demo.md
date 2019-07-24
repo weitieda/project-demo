@@ -37,13 +37,7 @@ Available for download at `App Store`:
 9. Implemented `Delegation Pattern` and blocks to achieve communication between classes
 10. Multiple language support: English, French and Chinese
 11. Display user current facing direction
-<<<<<<< HEAD
-12. Analyze user behaviour with `Google Analytics`, e.g. touch/share event
 
 ---
 
 <a href="mailto:hi@tiedawei.com"><img src="https://img.shields.io/badge/Contact-suc.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-||||||| merged common ancestors
-12. Analyze user behaviour with `Google Analytics`, e.g. touch/share event
-=======
->>>>>>> 7fdb6394f08dc199e09c5f4f42c1fe4c3f5217bf
