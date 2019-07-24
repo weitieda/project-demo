@@ -1,8 +1,7 @@
 # Find My Parking
 
-![MIT Licence](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
-![Platform](https://img.shields.io/badge/Platform-iOS-green.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS-orange.svg)
 
 **Find My Parking** helps user to find parking pole location in Montreal, Canada.
 
@@ -39,3 +38,7 @@ Available for download at `App Store`:
 10. Multiple language support: English, French and Chinese
 11. Display user current facing direction
 12. Analyze user behaviour with `Google Analytics`, e.g. touch/share event
+
+---
+
+<a href="mailto:hi@tiedawei.com"><img src="https://img.shields.io/badge/Contact-suc.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
