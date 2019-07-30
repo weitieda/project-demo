@@ -17,7 +17,7 @@ Available for download at `App Store`
 
 ![search](../asset/find-my-parking/center.gif)
 ![swipe](../asset/find-my-parking/searchsort.gif)
-![parkingmeters](../asset/find-my-parking/parking_meters.gif)
+![parkingmeters](../asset/find-my-parking/parking.gif)
 
 #### Version 1.0
 
