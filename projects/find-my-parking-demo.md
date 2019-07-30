@@ -3,7 +3,7 @@
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-iOS-orange.svg)
 
-**Find My Parking** helps user to find parking pole location in Montreal, Canada.
+**Find My Parking** helps user to find parking pole location in Montréal, Canada.
 
 Available for download at `App Store`
 
