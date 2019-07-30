@@ -6,7 +6,7 @@
 
 **Light Menu** helps restaurant to place order faster.
 
-_[Video Demo](https://vimeo.com/336508045)_
+_[**Video Demo**](https://vimeo.com/336508045)_
 
 ## Screenshots
 
@@ -32,3 +32,7 @@ _Full-stack project, including `iPad` for mobile, `Django` for web and api, `Fir
 1. Deployed on [Heroku](https://tranquil-reaches-33843.herokuapp.com), intergrated with 2 api endpoint [category](https://tranquil-reaches-33843.herokuapp.com/api/category/) and [menu data](https://tranquil-reaches-33843.herokuapp.com/api/items/)
 2. Connected with `ElephantSQL`, a cloud `PostgreSQL` database
 3. Implemented `Django Admin`, which allows restaurant to login and CRUD sushi menu data
+
+---
+
+<a href="mailto:hi@tiedawei.com"><img src="https://img.shields.io/badge/Contact-suc.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;

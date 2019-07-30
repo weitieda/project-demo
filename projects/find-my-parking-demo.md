@@ -5,13 +5,21 @@
 
 **Find My Parking** helps user to find parking pole location in Montreal, Canada.
 
-Available for download at `App Store`:
+Available for download at `App Store`
 
 <a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
 <img src='../asset/find-my-parking/app-store-download.png' />
 </a>
 
-## Preview
+## Demo
+
+#### Version 2.0
+
+![search](../asset/find-my-parking/search2.gif)
+![swipe](../asset/find-my-parking/swipe_delete.gif)
+![parkingmeters](../asset/find-my-parking/parking_meters.gif)
+
+#### Version 1.0
 
 ![menu](../asset/find-my-parking/menu.gif)
 ![home_screen](../asset/find-my-parking/french.gif)
@@ -20,23 +28,22 @@ Available for download at `App Store`:
 ![search_history](../asset/find-my-parking/search.gif)
 ![search_history](../asset/find-my-parking/cluster.gif)
 
-## Design
+## Preview
 
 ![design](../asset/find-my-parking/design.png)
 
 ## Features
 
-1. Created `Auto Layout` UI and animation programmatically (No Storyboard)
+1. Created `Auto Layout` UI and animation programmatically (no storyboard)
 2. Request for user location with `CoreLocation` and shows it on `MapView` with `MapKit`
-3. Search parking pole data (open-source and provided by [Stationnement de Montréal](https://www.statdemtl.qc.ca/fr/informations/donnees-ouvertes/description-des-donnees-disponibles.html)) from a `SQLite` database with [FMDB](https://github.com/ccgus/fmdb) library, and show result on MapView with `MapKit Annotations`
-4. Read parking meters location from `.csv` file, fetched via `Core Data` then show user nearby ones, including clustering
-5. Implemented `UIView` Constraint Animation along with `UISwipeGestureRecongizer`
-6. Intergrated a confetti animation with `CAEmitterLayer`
-7. Customized `UICollectionView` with `UIViewPropertyAnimator` and customized `Flow Layout` to achieve a blur effect animation
-8. `UITableView` with customized cell
-9. Implemented `Delegation Pattern` and blocks to achieve communication between classes
-10. Multiple language support: English, French and Chinese
-11. Display user current facing direction
+3. Search parking pole and nearby parking meters from open-source data provided by [Stationnement de Montréal](https://www.statdemtl.qc.ca/fr/informations/donnees-ouvertes/description-des-donnees-disponibles.html)), and show result on MapView with `MapKit Annotations`, including `clustering`
+4. Store persistant data with `Core Data`
+5. Intergrated a confetti animation with `CAEmitterLayer`
+6. Customized `UICollectionView` with `UIViewPropertyAnimator` and customized `Flow Layout` to achieve a blur effect animation
+7. `UITableView` and `UICollectionView` with customized cell
+8. Implemented `Delegation Pattern`
+9. Multiple language support: English, French and Chinese
+10. Display user current facing direction
 
 ---
 
