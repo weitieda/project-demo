@@ -23,7 +23,6 @@ Available for download at `App Store`
 
 ![menu](../asset/find-my-parking/menu.gif)
 ![home_screen](../asset/find-my-parking/french.gif)
-![share_screen](../asset/find-my-parking/history.gif)
 ![french_support](../asset/find-my-parking/info.gif)
 ![search_history](../asset/find-my-parking/search.gif)
 ![search_history](../asset/find-my-parking/cluster.gif)
