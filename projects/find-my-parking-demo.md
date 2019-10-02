@@ -14,6 +14,8 @@ Available for download at `App Store`
 ## Demo
 ### Version 2.1 
 - Adapted iOS13 Dark Mode
+  
+![dark_mode](../asset/find-my-parking/dark_mode.gif)
 
 ### Version 2.0
 - Integrated Core Data
