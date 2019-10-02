@@ -33,22 +33,23 @@ Available for download at `App Store`
 ![search_history](../asset/find-my-parking/search.gif)
 ![search_history](../asset/find-my-parking/cluster.gif)
 
-## Preview
+## App Store Preview
 
 ![design](../asset/find-my-parking/design.png)
 
 ## Features
 
 1. Created `Auto Layout` UI and animation programmatically (no storyboard)
-2. Request for user location with `CoreLocation` and shows it on `MapView` with `MapKit`
-3. Search parking pole and nearby parking meters from open-source data provided by [Stationnement de Montréal](https://www.statdemtl.qc.ca/fr/informations/donnees-ouvertes/description-des-donnees-disponibles.html)), and show result on MapView with `MapKit Annotations`, including `clustering`
-4. Store persistant data with `Core Data`
-5. Intergrated a confetti animation with `CAEmitterLayer`
-6. Customized `UICollectionView` with `UIViewPropertyAnimator` and customized `Flow Layout` to achieve a blur effect animation
-7. `UITableView` and `UICollectionView` with customized cell
-8. Implemented `Delegation Pattern`
-9. Multiple language support: English, French and Chinese
-10. Display user current facing direction
+2. Adapted to `iOS 13` Dark Mode
+3. Request for user location with `CoreLocation` and shows it on `MapView` with `MapKit`
+4. Search parking pole and nearby parking meters from open-source data provided by [Stationnement de Montréal](https://www.statdemtl.qc.ca/fr/informations/donnees-ouvertes/description-des-donnees-disponibles.html), and show result on MapView with `MapKit Annotations`, including `clustering`
+5. Store persistant data with `Core Data`
+6. Intergrated a confetti animation with `CAEmitterLayer`
+7. Customized `UICollectionView` with `UIViewPropertyAnimator` and customized `Flow Layout` to achieve a blur effect animation
+8. `UITableView` and `UICollectionView` with customized cell
+9. Implemented `Delegation Pattern`
+10. Multiple language support: English, French and Chinese
+11. Display user current facing direction
 
 ---
 
