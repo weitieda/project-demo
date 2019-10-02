@@ -12,14 +12,18 @@ Available for download at `App Store`
 </a>
 
 ## Demo
+### Version 2.1 
+- Adapted iOS13 Dark Mode
 
-#### Version 2.0
+### Version 2.0
+- Integrated Core Data
+- Add Parking Meter search
 
 ![search](../asset/find-my-parking/center.gif)
 ![swipe](../asset/find-my-parking/searchsort.gif)
 ![parkingmeters](../asset/find-my-parking/parking.gif)
 
-#### Version 1.0
+### Version 1.0
 
 ![menu](../asset/find-my-parking/menu.gif)
 ![home_screen](../asset/find-my-parking/french.gif)
