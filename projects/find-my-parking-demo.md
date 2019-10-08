@@ -43,7 +43,7 @@ Available for download at `App Store`
 ## Features
 
 1. Created `Auto Layout` UI and animation programmatically (no storyboard)
-2. Adapted to `iOS13` Dark Mode
+2. Adapted to `iOS 13` Dark Mode
 3. Request for user location with `CoreLocation` and shows it on `MapView` with `MapKit`
 4. Search parking pole and nearby parking meters from open-source data provided by [Stationnement de Montréal](https://www.statdemtl.qc.ca/fr/informations/donnees-ouvertes/description-des-donnees-disponibles.html), and show result on MapView with `MapKit Annotations`, including `clustering`
 5. Store persistant data with `Core Data`
