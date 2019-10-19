@@ -1,4 +1,4 @@
-# Restaurant Mobile Order Solution
+# Restaurant Mobile Order Solution (Working on a video demo)
 
 **Restaurant Mobile Order Solution** is a simplified UberEats-like app, including a client-side app and a restaurant-side app. Both client and restaurant will receive Nofitication when order status changes.
 
