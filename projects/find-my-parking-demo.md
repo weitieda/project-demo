@@ -12,6 +12,8 @@ Available for download at `App Store`
 </a>
 
 Scan via iPhone's camera to open in App Store
+
+
 <img src='../asset/find-my-parking/qrcode.png'  width="100" height="120"/>
 
 ## Demo
