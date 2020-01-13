@@ -11,7 +11,7 @@
 
 ## Preview
 
-▶️ _[**Video Demo**](https://vimeo.com/384440813)_
+[**Video Demo**](https://vimeo.com/384440813) ▶️
 
 ##### iPhone ⬇️
 
