@@ -21,6 +21,6 @@ _[**Video Demo**](https://vimeo.com/384440813)_
 
 <img src='../asset/restaurant-solution/account.png' width="30%"><img src='../asset/restaurant-solution/bag.png' width="30%">
 
-##### iPad
+##### iPad (Split View)
 
 <img src='../asset/restaurant-solution/ipad.png' width="90%">
