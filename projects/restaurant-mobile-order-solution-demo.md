@@ -13,11 +13,4 @@
 
 _[**Video Demo**](https://vimeo.com/384440813)_
 
-<img src='../asset/restaurant-solution/home.png' width="30%">
-<img src='../asset/restaurant-solution/login.png' width="30%">
-<img src='../asset/restaurant-solution/signup.png' width="30%">
-<img src='../asset/restaurant-solution/menu.png' width="30%">
-<img src='../asset/restaurant-solution/orders.png' width="30%">
-<img src='../asset/restaurant-solution/order_detail.png' width="30%">
-<img src='../asset/restaurant-solution/account.png' width="30%">
-<img src='../asset/restaurant-solution/ipad.png' width="50%">
+<img src='../asset/restaurant-solution/home.png' width="30%"><img src='../asset/restaurant-solution/login.png' width="30%"><img src='../asset/restaurant-solution/signup.png' width="30%"><img src='../asset/restaurant-solution/menu.png' width="30%"><img src='../asset/restaurant-solution/orders.png' width="30%"><img src='../asset/restaurant-solution/order_detail.png' width="30%"><img src='../asset/restaurant-solution/account.png' width="30%"><img src='../asset/restaurant-solution/ipad.png' width="50%">
