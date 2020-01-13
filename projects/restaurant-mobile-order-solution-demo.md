@@ -13,7 +13,7 @@
 
 _[**Video Demo**](https://vimeo.com/384440813)_
 
-##### iPhone
+##### iPhone ⬇️
 
 <img src='../asset/restaurant-solution/home.png' width="30%"><img src='../asset/restaurant-solution/login.png' width="30%"><img src='../asset/restaurant-solution/signup.png' width="30%">
 
@@ -21,6 +21,6 @@ _[**Video Demo**](https://vimeo.com/384440813)_
 
 <img src='../asset/restaurant-solution/account.png' width="30%"><img src='../asset/restaurant-solution/bag.png' width="30%">
 
-##### iPad (Split View)
+##### iPad (Split View) ⬇️
 
 <img src='../asset/restaurant-solution/ipad.png' width="90%">
