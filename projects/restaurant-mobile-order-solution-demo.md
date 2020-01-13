@@ -2,7 +2,7 @@
 
 **Restaurant Mobile Order Solution** is a simplified UberEats-like app, including a client-side app and a restaurant-side app. Both sides will receive Notification when order status changes.
 
-## Highlights
+## Features
 
 1. Written in `Swift` with `Auto Layout` UI programmatically
 2. Integrated `Push Notification` feature via [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
