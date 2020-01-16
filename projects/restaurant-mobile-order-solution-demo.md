@@ -9,9 +9,11 @@
 3. Deployed two [Cloud Function](https://firebase.google.com/docs/functions) to monitor data (order status) change, written in `Node.js`
 4. Customized nested `UICollectionView`
 
-## Preview
+## Demo
 
 ▶️ [**Video Demo**](https://vimeo.com/384440813)
+
+### Screenshots
 
 ##### iPhone ⬇️
 
