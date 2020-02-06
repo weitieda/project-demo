@@ -13,10 +13,15 @@ Available for download at `App Store`
 
 Scan via iPhone's camera to open in App Store to download
 
-
 <img src='../asset/find-my-parking/qrcode.png'  width="160" height="200"/>
 
 ## Demo
+
+### Version 2.4
+
+-   Add callout view to show paid period
+
+![dark_mode](../asset/find-my-parking/callout.gif)
 
 ### Version 2.1
 
