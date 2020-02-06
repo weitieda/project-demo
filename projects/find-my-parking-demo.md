@@ -5,7 +5,7 @@
 
 **Find My Parking** helps user to find parking pole and parking meter location in Montréal, Canada.
 
-Available for download at `App Store`
+Available on `App Store`
 
 <a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
 <img src='../asset/find-my-parking/app-store-download.png' />
