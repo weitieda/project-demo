@@ -21,7 +21,7 @@ Available on `App Store`
 
 -   Add callout view to show paid period
 
-![dark_mode](../asset/find-my-parking/callout.gif)
+![callout](../asset/find-my-parking/callout.gif)
 
 ### Version 2.1
 
