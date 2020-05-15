@@ -1,4 +1,4 @@
-# Project Demo
+# Projects
 
 -   [Light Menu](#pushpin-light-menu) (iPadOS, Core Data, Django, Wireless Print)
 -   [Find My Parking](#pushpin-find-my-parking) (Available on App Store)
