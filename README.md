@@ -41,6 +41,8 @@ _Full-stack project, including `iPad` for mobile, `Django` for web and api, `Fir
 2. Connected with `ElephantSQL`, a cloud `PostgreSQL` database
 3. Implemented `Django Admin`, which allows restaurant to login and CRUD sushi menu data
 
+[BACK TO TOP](#project-demo)
+
 # :pushpin: Find My Parking
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
@@ -107,6 +109,8 @@ Available on `App Store`
 10. Multiple language support: English, French and Chinese
 11. Display user current facing direction
 
+[BACK TO TOP](#project-demo)
+
 # :pushpin: Restaurant Mobile Order Solution
 
 **Restaurant Mobile Order Solution** is a simplified UberEats-like app, including a client-side app and a restaurant-side app. Both sides will receive Notification when order status changes.
@@ -134,3 +138,5 @@ Available on `App Store`
 ##### iPad (Split View) ⬇️
 
 <img src='asset/restaurant-solution/ipad.png' width="90%">
+
+[BACK TO TOP](#project-demo)
