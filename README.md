@@ -1,6 +1,6 @@
 # Project Demo
 
--   [Light Menu](#:pushpin:-light-menu) (iPadOS, Core Data, Django, Wireless Print)
+-   [Light Menu](#pushpin-light-menu) (iPadOS, Core Data, Django, Wireless Print)
 -   [Find My Parking](#find-my-parking) (Available on App Store)
 -   [Restaurant Mobile Order Solution](#restaurant-mobile-order-solution) (Push Notification, Google Cloud Functions)
 
