@@ -12,7 +12,9 @@
 
 **Light Menu** helps restaurant to place order faster.
 
-_[**Video Demo**](https://vimeo.com/336508045)_
+_[**Video Demo**](https://vimeo.com/336508045)_ ⏱3 mins
+
+![print](asset/light-menu/print.gif)
 
 ## Screenshots
 
@@ -118,13 +120,14 @@ Available on `App Store`
 
 ## Demo
 
-▶️ [**Video Demo**](https://vimeo.com/384440813)
+▶️ [**Video Demo**](https://vimeo.com/384440813) ⏱1 min
+
+![demo](asset/restaurant-solution/push_notification.gif)
+![demo](asset/restaurant-solution/demo.gif)
 
 ### Screenshots
 
 ##### iPhone ⬇️
-
-![demo](asset/restaurant-solution/demo.gif)
 
 <img src='asset/restaurant-solution/home.png' width="20%"><img src='asset/restaurant-solution/login.png' width="20%"><img src='asset/restaurant-solution/signup.png' width="20%"><img src='asset/restaurant-solution/menu.png' width="20%"><img src='asset/restaurant-solution/orders.png' width="20%"><img src='asset/restaurant-solution/order_detail.png' width="20%"><img src='asset/restaurant-solution/account.png' width="20%"><img src='asset/restaurant-solution/bag.png' width="20%">
 
