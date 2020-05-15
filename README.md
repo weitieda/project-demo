@@ -4,7 +4,7 @@
 -   [Find My Parking](#find-my-parking) (Available on App Store)
 -   [Restaurant Mobile Order Solution](#restaurant-mobile-order-solution) (Push Notification, Google Cloud Functions)
 
-# Light Menu
+# 📌 Light Menu
 
 ![Platform](https://img.shields.io/badge/Platform-iOS-green.svg)
 
@@ -41,7 +41,7 @@ _Full-stack project, including `iPad` for mobile, `Django` for web and api, `Fir
 2. Connected with `ElephantSQL`, a cloud `PostgreSQL` database
 3. Implemented `Django Admin`, which allows restaurant to login and CRUD sushi menu data
 
-# Find My Parking
+# 📌 Find My Parking
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-iOS-orange.svg)
@@ -107,7 +107,7 @@ Available on `App Store`
 10. Multiple language support: English, French and Chinese
 11. Display user current facing direction
 
-# Restaurant Mobile Order Solution
+# 📌 Restaurant Mobile Order Solution
 
 **Restaurant Mobile Order Solution** is a simplified UberEats-like app, including a client-side app and a restaurant-side app. Both sides will receive Notification when order status changes.
 
