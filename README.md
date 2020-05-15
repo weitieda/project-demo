@@ -1,8 +1,8 @@
 # Project Demo
 
--   [Light Menu](#light-menu) (iPadOS, Core Data, Django, Wireless Print)
--   [Find My Parking](#find-my-parking) (Available on App Store)
--   [Restaurant Mobile Order Solution](#restaurant-mobile-order-solution) (Push Notification, Google Cloud Functions)
+-   [Light Menu](#📌-light-menu) (iPadOS, Core Data, Django, Wireless Print)
+-   [Find My Parking](#📌-find-my-parking) (Available on App Store)
+-   [Restaurant Mobile Order Solution](#📌-restaurant-mobile-order-solution) (Push Notification, Google Cloud Functions)
 
 # 📌 Light Menu
 
