@@ -41,7 +41,7 @@ _Full-stack project, including `iPad` for mobile, `Django` for web and api, `Fir
 2. Connected with `ElephantSQL`, a cloud `PostgreSQL` database
 3. Implemented `Django Admin`, which allows restaurant to login and CRUD sushi menu data
 
-[BACK TO TOP](#project-demo)
+[BACK TO TOP](#projects)
 
 # :pushpin: Find My Parking
 
@@ -109,7 +109,7 @@ Available on `App Store`
 10. Multiple language support: English, French and Chinese
 11. Display user current facing direction
 
-[BACK TO TOP](#project-demo)
+[BACK TO TOP](#projects)
 
 # :pushpin: Restaurant Mobile Order Solution
 
@@ -139,4 +139,4 @@ Available on `App Store`
 
 <img src='asset/restaurant-solution/ipad.png' width="90%">
 
-[BACK TO TOP](#project-demo)
+[BACK TO TOP](#projects)
