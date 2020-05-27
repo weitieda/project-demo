@@ -15,6 +15,7 @@
 _[**Video Demo**](https://vimeo.com/336508045)_ ⏱3 mins
 
 ![print](asset/light-menu/print.gif)
+![order](asset/light-menu/order.gif)
 
 ## Screenshots
 
