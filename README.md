@@ -20,9 +20,10 @@ _[**Video Demo**](https://vimeo.com/336508045)_ ⏱3 mins
 ![order](asset/light-menu/order.gif)
 ![make order](asset/light-menu/make_order.gif)
 ![search](asset/light-menu/search.gif)
-![history](asset/light-menu/history.gif)
 
-> Red circle indicates user's address is out of delivery range(3 KM)
+> Red circle indicates client's address is out of delivery range(3 KM)
+
+![history](asset/light-menu/history.gif)
 
 <img src="asset/light-menu/home.png" width="50%"><img src="asset/light-menu/search_customer.png" width="50%"><img src="asset/light-menu/transactions.png" width="50%"><img src="asset/light-menu/menu.png" width="50%"><img src="asset/light-menu/django_main_list.png" width="50%"><img src="asset/light-menu/django_sushi_list.png" width="50%"><img src="asset/light-menu/django_edit_sushi.png" width="50%"><img src="asset/light-menu/firebase_database.png" width="50%">
 
