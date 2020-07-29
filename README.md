@@ -8,11 +8,11 @@
 
 ![Platform](https://img.shields.io/badge/Platform-iOS-green.svg)
 
-![preview](/asset/light-menu/light_menu_preview.jpg)
+**Light Menu** helps restaurant to place order faster
 
-**Light Menu** helps restaurant to place order faster.
+![preview](./asset/light-menu/light_menu_preview.jpg)
 
-_[**Video Demo**](https://vimeo.com/336508045)_ ⏱3 mins
+[![video](./asset/light-menu/video_thumbnail.png "title")](https://vimeo.com/336508045)
 
 ## Preview
 
@@ -56,8 +56,6 @@ _Full-stack project, including `iPad` for mobile, `Django` for web and api, `Fir
 ![Platform](https://img.shields.io/badge/Platform-iOS-orange.svg)
 
 **Find My Parking** helps user to find parking pole and parking meter location in Montréal, Canada.
-
-Available on `App Store`
 
 <a target='_blank' href='https://itunes.apple.com/us/app/find-my-parking/id1459821681?ls=1&mt=8'>
 <img src='asset/find-my-parking/app-store-download.png' />
